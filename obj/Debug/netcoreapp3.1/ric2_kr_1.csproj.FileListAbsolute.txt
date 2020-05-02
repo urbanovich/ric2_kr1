@@ -1,0 +1,13 @@
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.csprojAssemblyReference.cache
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.AssemblyInfoInputs.cache
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.AssemblyInfo.cs
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.exe
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.deps.json
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.runtimeconfig.json
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.runtimeconfig.dev.json
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.dll
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\bin\Debug\netcoreapp3.1\ric2_kr_1.pdb
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.dll
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.pdb
+C:\Users\test\Documents\VisualStudioCode\ric2_kr_1\obj\Debug\netcoreapp3.1\ric2_kr_1.genruntimeconfig.cache
