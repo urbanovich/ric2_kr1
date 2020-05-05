@@ -12,7 +12,10 @@ namespace ric2_kr_1
 {
     public class SaveButton: Button
     {
-       public TextBox TextBoxField {get; set;}
+       public TextBox title {get; set;}
+       public TextBox price {get; set;}
+       public TextBox startTime {get; set;}
+       public TextBox endTime {get; set;}
 
         public SaveButton()
         {
@@ -24,7 +27,17 @@ namespace ric2_kr_1
         
         private void ClickHandler(Object sender, EventArgs e)
         {
-            DataFile.Write(this.TextBoxField.Text);
+            string title = this.title.Text;
+            string price = this.price.Text;
+            string startTime = this.startTime.Text;
+            string endTime = this.endTime.Text;
+
+            Subscribe subscribe = new Subscribe();
+            subscribe.title = title;
+            subscribe.price = price;
+            subscribe.startTime = startTime;
+            subscribe.endTime = endTime;
+            DataFile.Write(subscribe);
             MessageBox.Show("Saved");
         }
     }
